@@ -31,7 +31,7 @@ digital-clock (folder)
 ### Screenshot
 
 <p align="center">
-<a href="https://sezginakgul.github.io/digital-clock/"><img src=".gif" alt="screenshot" width="100%"></a>
+<a href="https://sezginakgul.github.io/digital-clock/"><img src="digitalclock.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
