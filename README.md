@@ -24,9 +24,7 @@ Project aims to create a digital clock.
 digital-clock (folder)
         |----index.html 
         |----style.css
-        |----app.js
-                
-                      
+        |----app.js                
 ```
 ### Screenshot
 
@@ -57,5 +55,6 @@ digital-clock (folder)
 - Javascript Events
 - Javascript Functions
 - Import Google Fonts
+- JS setInterval
 - Comments
 
