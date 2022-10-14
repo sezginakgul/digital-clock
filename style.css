@@ -8,14 +8,14 @@
 }
 
 .style {
-  min-width: 750px;
+  /*min-width: 750px;*/
   background-color: #151320;
   display: flex;
   align-items: center;
   justify-content: center;
   color: aqua;
   font-size: 4rem;
-  width: 100vw;
+  /*width: 100vw;*/
   height: 100vh;
 }
 
@@ -24,4 +24,20 @@
   padding-top: 1rem;
   box-shadow: 0 30px 35px rgba(255, 0, 0, 0.5);
   border-bottom: 5px solid red;
+}
+
+@media (max-width: 767.98px) {
+
+  .style{
+    font-size: 1rem;
+  }
+
+}
+
+@media (max-width: 991.98px) {
+
+  .style{
+    font-size: 1.5rem;
+  }
+
 }
